@@ -1,0 +1,17 @@
+{
+    "bgColor": "white",
+    "vendor": "ZEE",
+    "largeIcon": "zee5_logo.png",
+    "icon": "zee5_s_logo.png",
+    "main": "index.html",
+    "id": "com.zee5.app",
+    "title": "ZEE5",
+    "type": "web",
+    "version": "1.4.3",
+    "splashBackground": "splash.png",
+    "bgImage": "splash.png",
+    "disableBackHistoryAPI": true,
+    "transparent": false,
+    "iconColor": "black",
+    "deeplinkingParams": "{ \"handledBy\" : \"app\", \"contentTarget\": \"$CONTENTID\"}"
+}
